@@ -1,9 +1,9 @@
 {
   "name": "Bot dos manos",
   "bot-account": {
-    "username": "Bot dos MANOS",
-    "password": "",
-    "type": "offline"
+    "username": "mano",
+    "password": "123456",
+    "type": "online"
   },
   "server": {
     "ip": "survivaldosman0s.aternos.me",
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "123456"
     },
     "anti-afk": {
       "enabled": true,
